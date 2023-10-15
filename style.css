@@ -132,16 +132,535 @@ background-color: blue;
 border-bottom: 2px solid white;
     padding-bottom: 100px;}
 
+.pics2 {margin-top: -3.2rem;
+        margin-right: 1rem;}
+        
+.pic1 {border-bottom: 2px solid white;
+            padding-bottom: 100px;
+        margin-top: -1rem;}
+
 .para5 {display: flex;
 justify-content: space-between;
-background-color: blue;
-padding-top: 1rem;}
+margin-left: -13rem;
+margin-top: 2.5rem;
+border-bottom: 1px solid white;
+    padding-bottom: 100px;}
+
+.para5 p {font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;}
 
 .para5 ul {list-style: none;
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
-margin-top: -2rem;}
+font-size: 30px;
+margin-top: -0.5rem;
+margin-right: 2rem;}    
 
-.para5 p {margin-left: 2rem;
-    margin-top: -2rem;
-font-size: 50px;}
+.para6 {display: flex;
+    justify-content: space-between;
+    margin-left: -13rem;
+    margin-top: 2.5rem;
+    border-bottom: 1px solid white;
+        padding-bottom: 100px;}
+
+.para6 p {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 30px;}
+        
+.para6 ul {list-style: none;
+        font-size: 20px;
+        margin-top: -0.5rem;
+        margin-right: 1rem;}    
+        
+        
+.para7 {display: flex;
+            justify-content: space-between;
+            margin-left: -13rem;
+            margin-top: 2.5rem;
+            border-bottom: 1px solid white;
+                padding-bottom: 100px;}
+        
+.para7 p {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                    font-size: 30px;}
+                
+.para7 ul {list-style: none;
+                font-size: 20px;
+                margin-top: -0.5rem;
+                margin-right: 2rem;}    
+                    
+
+.para8 {display: flex;
+        justify-content: space-between;
+        margin-left: -13rem;
+        margin-top: 2.5rem;}
+                
+.para8 p {font-family: 'Times New Roman', Times, serif;
+          font-size: 35px;}
+                        
+.para8 ul {list-style: none;
+           font-size: 30px;
+           margin-top: -0.5rem;
+           margin-right: 1rem;}     
+        
+.gallery3 {display:flex;
+           flex-wrap: wrap;
+        align-items: flex-end;
+    margin-top: 8rem;
+margin-left: 3rem;
+border-bottom: 2px solid white;
+                padding-bottom: 100px;}
+
+.gallery3 img{
+    padding: 5px 5px;}
+
+ .container {display: flex;}   
+
+.leftimg1 {
+        font-size: 15px;
+        flex-basis: 48%;
+        padding: 10px; 
+        width:200px;}
+        
+.leftimg1 h5{font-size: 50px;
+            margin-left: 2rem;
+            margin-top: 2rem;}
+        
+ .rightimg1 {font-size: 10px;
+        flex-basis: 48%;
+        padding: 10px;}
+        
+ .rightimg1 p{margin: 0;
+        font-size: 15px;}
+        
+.rightimg1 h6{
+        margin: 0;
+        font-size: 20px;
+        padding-top: 10px;
+        margin-top: 30px;}
+
+
+
+
+        .para1{
+            background-color: blue;
+            }
+            .para1 h5{
+            font-size: 50px;
+            margin-left: 12px;
+            }
+            .para1 p{
+            font-size: 30px;
+            }
+            
+            .video{
+            margin-left: 50px;
+            
+            
+            }
+            .vid{
+            width: 100%;
+            height: 650px;
+            }
+            
+            .footer{
+            margin-top: 150px;
+            margin-bottom: 150px;
+            display: flex;
+            }
+            .lists{
+            display: flex;
+            margin-left: 10rem;
+            margin-top: 1rem;
+            
+            }
+            
+            .list2{
+            margin-left: 100px;
+            
+            }
+            
+            .list3{
+            margin-left: 100px;
+            }
+            
+            .list4{
+            margin-left: 100px;
+            }
+            
+            .list5{
+            margin-left: 100px;
+            }
+            
+            .list6{
+            margin-left: 100px;
+            }
+            
+            .list1 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .list1 a:hover{
+            text-decoration: underline;
+            }
+            
+            .list2 a:hover{
+            text-decoration: underline;
+            }
+            
+            .list3 a:hover{
+            text-decoration: underline;
+            }
+            
+            .list4 a:hover{
+            text-decoration: underline;
+            }
+            
+            .list2 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            .list3 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .list4 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .list5 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .list6 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            
+            .hel{
+            font-size: 17px;
+            text-decoration: none;
+            color: white;
+            }
+            
+            .yel{
+            margin: 0;
+            font-size: 5px;
+            text-decoration: none;
+            color: white;
+            }
+            
+            .lists1{
+            display: flex;
+            margin-left: 10px;
+            
+            }
+            
+            .lit1 a{
+            font-size: 20px;
+            }
+            
+            
+            
+            .lit2{
+            margin-left: 200px;
+            
+            }
+            
+            .lit3{
+            margin-left: 50px;
+            }
+            
+            .lit4{
+            margin-left: 50px;
+            }
+            
+            .lit5{
+            margin-left: 50px;
+            }
+            
+            .lit6{
+            margin-left: 50px;
+            }
+            
+            .lit1 a:hover{
+            text-decoration: underline;
+            }
+            
+            .lit2 a:hover{
+            text-decoration: underline;
+            }
+            
+            .lit3 a:hover{
+            text-decoration: underline;
+            }
+            
+            .lit4 a:hover{
+            text-decoration: underline;
+            }
+            
+            .lit5 a:hover{
+            text-decoration: underline;
+            }
+            
+            .lit1 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .lit2 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            .lit3 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .lit4 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .lit5 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            .lit6 h6{
+            font-size: 20px;
+            margin: 0;
+            
+            
+            }
+            
+            
+            
+            .hrr{
+            margin-top: 100px;
+            }
+            
+            .hr1{
+            margin-top: 15px;
+            height: 2px;
+            background-color: white;
+            }
+            
+            .hr2{
+            margin-top: 15px;
+            height: 3px;
+            background-color: white;
+            }
+            
+            .hr3{
+            margin-top: 15px;
+            height: 4px;
+            background-color: white;
+            }
+            
+            .hr4{
+            margin-top: 15px;
+            height: 5px;
+            background-color: white;
+            }
+            
+            .hr5{
+            margin-top: 15px;
+            height: 6px;
+            background-color: white;
+            }
+            
+            .hr6{
+            margin-top: 15px;
+            height: 7px;
+            background-color: white;
+            }
+            
+            .hr7{
+            margin-top: 15px;
+            height: 8px;
+            background-color: white;
+            }
+            
+            .hr8{
+            margin-top: 15px;
+            height: 9px;
+            background-color: white;
+            }
+            
+            .hr9{
+            margin-top: 15px;
+            height: 10px;
+            background-color: white;
+            }
+            
+            .hr10{
+            margin-top: 15px;
+            height: 11px;
+            background-color: white;
+            }
+            
+            .menu {
+            background-color: black;
+            padding: 5px;
+            }
+            .menuul li {
+            list-style-type: none;
+            padding: 5px;
+            margin: 5px;
+            }
+            
+            .menuul li a {
+            text-decoration: none;
+            color: white;
+            
+            }
+            
+            .menuul li a:hover {
+            color: blue;
+            }
+            
+            .topmenumobile {
+            display: none;
+            
+            }
+            
+            .menuul {
+            display: none;
+            }
+            
+            .active {
+            display: block;
+            }  
+            
+            
+            
+            .search{
+            background-color: black;
+            color: white;
+            padding: 10px 10px;
+            }
+            
+            .menu{
+            display: flex;
+            position: sticky;
+            
+            background-color: black;
+            top: 0;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            z-index: 100;
+            }
+            
+            .menuUI{
+            display: flex;
+            /* margin-left: 20px; */
+            margin-top: 45px;
+            list-style-type: none;
+            }
+            .menuUI li a{
+            text-decoration: none;
+            margin-left: 20px;
+            color: white;
+            font-size: 20px;
+            
+            
+            }
+            
+            .menuUI li a:hover{
+            text-decoration: underline;
+            }
+            
+            .menuUI .search{
+            margin-left: 150px;
+            }
+            
+            .menuUI .try{
+            border: 2px solid white;
+            padding: 5px 5px;
+            }
+            
+            .menuUI .try:hover{
+            background-color: white;
+            color: black;
+            text-decoration: none;
+            }
+            
+            .dropdown {
+                display: inline-block;
+                margin-right: 20px;
+                position: relative;
+            }
+            
+            .dropdown-menu {
+                display: none;
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                background-color: black;
+            }
+            
+            .dropdown-button {
+                /* padding: 10px 20px; */
+                color: white;
+                border: none;
+                cursor: pointer;
+                background-color: black;
+                font-size: 16px;
+            }
+            
+            .dropdown-button:hover{
+                text-decoration: underline;
+            }
+            
+            .dropdown-menu li {
+                display: inline-block; /* Display menu items horizontally */
+                margin-right: 10px; /* Add spacing between menu items */
+                background-color: black;
+                cursor: pointer;
+                margin-top: 12px;
+                margin-left: 5px;
+                padding-left: 5px;
+            }
+            
+            .dropdown-menu li:hover {
+                text-decoration: underline;
+            }
+            
+            .safety{
+                background-color: black;
+                color: white;
+                border: none;
+                cursor: pointer;
+                font-size: 16px;
+            }
+            
+            .safety:hover{
+                text-decoration: underline;
+            }
+        
